@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ofejiroederhi
-- 👀 An Electrical Engineering, Application Developer and Cloud Computing Enthusiast.
+- 👀 An Engineer, Application Developer and Cloud Computing Enthusiast.
 - 📫 You can reach me via email  ofejiroederhi@gmail.com
 
 <!---
