@@ -1,6 +1,5 @@
 - 👋 Hi, I’m ofejiroederhi
-- 👀 An Electrical Engineering Graduate and IT Application Developer by Profession.
-- 🌱 I am enthusiastic about Cloud Computing.
+- 👀 An Electrical Engineering, Application Developer and Cloud Computing Enthusiast.
 - 📫 You can reach me via email  ofejiroederhi@gmail.com
 
 <!---
