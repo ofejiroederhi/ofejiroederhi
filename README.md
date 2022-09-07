@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ofejiroederhi
-- 👀 I’m interested in programming
-- 🌱 I’m currently delving into Cloud DevOps
+- 👋 Hi, I’m ofejiroederhi
+- 👀 An Electrical Engineering Graduate and IT Application Developer by Profession.
+- 🌱 I am enthusiastic about Cloud Computing.
 - 📫 You can reach me via email  ofejiroederhi@gmail.com
 
 <!---
