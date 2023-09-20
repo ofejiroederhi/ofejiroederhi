@@ -12,8 +12,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to workout and play games.
+- 🥅 2023 Goals: Learn more about web3
+- ⚡ Fun fact: I love to workout and play brain teaser games.
 
 ### Connect with me:
 
@@ -30,7 +30,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/ofejiroederhi#gh-dark-mode-only)
 
 ### Languages and Tools:
-
+[<img align="left" alt="SharePoint" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
