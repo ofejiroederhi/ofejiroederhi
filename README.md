@@ -8,11 +8,10 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com) -->
 
 
-## A Software and Cloud DevOps Engineer.
+## A Software and DevOps Engineer.
 
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2026 Goals: Learn more about Artificial Intelligence
 - ⚡ Fun fact: I love to workout and play brain teaser games.
 
 ### Connect with me:
